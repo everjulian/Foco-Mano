@@ -1,0 +1,11 @@
+# Entorno virtual de Python
+Include/
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+
+# Jupyter
+.ipynb_checkpoints/
+*.backup.ipynb
